@@ -1,2 +1,2 @@
 # CastAndFurlAnimation
-![gif图](./gif.png)
+![gif图](https://github.com/XinYiheng/CastAndFurlAnimation/blob/master/gif.png)
